@@ -1,3 +1,4 @@
+,label,area,bbox-0,bbox-1,bbox-2,bbox-3,bbox_area,centroid-0,centroid-1,filled_image,image,slice,inertia_tensor-0-0,inertia_tensor-0-1,inertia_tensor-1-0,inertia_tensor-1-1,solidity,mean_intensity,intensity_image
 4,5,15039,10,22,200,254,44080,113.66181262051998,191.32342575969147,"[[False False False ... False False False]
  [False False False ... False False False]
  [False False False ... False False False]
